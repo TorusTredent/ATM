@@ -9,5 +9,6 @@ public class Atm {
         thread1.start();
         thread2.start();
         System.out.println("KSKSKS");
+        System.out.println("koko");
     }
 }
