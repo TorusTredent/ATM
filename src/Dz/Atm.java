@@ -8,5 +8,6 @@ public class Atm {
         Dz.Thread2 thread2 = new Dz.Thread2(purse, 30);
         thread1.start();
         thread2.start();
+        System.out.println("KSKSKS");
     }
 }
